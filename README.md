@@ -1,9 +1,9 @@
 # Sistema de control de calificaciones - La Nueva Escuela
 
-**Estudiante:** Víctor Hamlet Peguero Márquez
-**Matrícula:** 2025-2843
-**Asignatura:** Lógica de Programación
-**Profesor:** Gamalier Reyes del Carmen
+Estudiante: Víctor Hamlet Peguero Márquez
+Matrícula: 2025-2843
+Asignatura: Lógica de Programación
+Profesor: Gamalier Reyes del Carmen
 
 ## Descripción del programa
 
